@@ -1,4 +1,4 @@
-This repo has been moved to [fmcw](https://github.com/matthuszagh/fmcw) to support git-lfs (public forks do not support LFS).
+This repo has been moved to [[https://github.com/matthuszagh/fmcw][fmcw]] to support git-lfs (public forks do not support LFS).
 
 * About
 :PROPERTIES:
