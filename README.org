@@ -1,3 +1,5 @@
+This repo has been moved to [fmcw](https://github.com/matthuszagh/fmcw) to support git-lfs (public forks do not support LFS).
+
 * About
 :PROPERTIES:
 :ID:       20ff1c28-cfc6-4280-8501-83314fee390d
